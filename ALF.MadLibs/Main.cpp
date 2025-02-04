@@ -83,11 +83,12 @@ int main()
 
 
     //step 5 - display
-    cout << "It was a " << entries[0].input << ", cold November day.I woke up to the " << entries[1].input << " smell of " << entries[2].input 
-        << " roasting in the " << entries[3].input << " downstairs. \nI " << entries[4].input << " down the stairs to see if I could help " << entries[5].input 
+    cout << "It was a " << entries[0].input << ", cold November day. I woke up to the " << entries[1].input 
+        << " smell of " << entries[2].input << " roasting in the " << entries[3].input 
+        << " downstairs. \nI " << entries[4].input << " down the stairs to see if I could help " << entries[5].input 
         << " the dinner. My mom said, 'See if " << entries[6].input << " needs a fresh " << entries[7].input 
         << ".' \nSo I carried a tray of glasses full of " << entries[8].input << " into the " << entries[9].input 
-        << " room.When I got there, I couldn't believe my " << entries[10].input << "! \nThere were " << entries[11].input 
+        << " room. When I got there, I couldn't believe my " << entries[10].input << "! \nThere were " << entries[11].input 
         << " " << entries[12].input << " on the " << entries[13].input << "!";
 
     //It was a _, cold November day. I woke up to the _ smell of _ roasting in the _ downstairs. I _ down the stairs to see if I could help _ the dinner. My mom said, "See if _ needs a fresh _." So I carried a tray of glasses full of _ into the _ room. When I got there, I couldn't believe my _! There were _ _ on the _!
